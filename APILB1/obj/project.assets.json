@@ -1,0 +1,85 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "LB1 tprtbor/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/LB1 tprtbor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LB1 tprtbor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LB1 tprtbor/1.0.0": {
+      "type": "project",
+      "path": "../LB1 tprtbor/LB1 tprtbor.csproj",
+      "msbuildProject": "../LB1 tprtbor/LB1 tprtbor.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "LB1 tprtbor >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Денис\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\3й курс\\2 часть\\ТП\\LB1 tprtbor\\APILB1\\APILB1.csproj",
+      "projectName": "APILB1",
+      "projectPath": "D:\\3й курс\\2 часть\\ТП\\LB1 tprtbor\\APILB1\\APILB1.csproj",
+      "packagesPath": "C:\\Users\\Денис\\.nuget\\packages\\",
+      "outputPath": "D:\\3й курс\\2 часть\\ТП\\LB1 tprtbor\\APILB1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Денис\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\3й курс\\2 часть\\ТП\\LB1 tprtbor\\LB1 tprtbor\\LB1 tprtbor.csproj": {
+              "projectPath": "D:\\3й курс\\2 часть\\ТП\\LB1 tprtbor\\LB1 tprtbor\\LB1 tprtbor.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
