@@ -1,0 +1,20 @@
+D:\files\fleshka\ProgramC++\LB1 tprtbor\LB1 tprtbor\bin\Debug\LB1 tprtbor.exe.config
+D:\files\fleshka\ProgramC++\LB1 tprtbor\LB1 tprtbor\bin\Debug\LB1 tprtbor.exe
+D:\files\fleshka\ProgramC++\LB1 tprtbor\LB1 tprtbor\bin\Debug\LB1 tprtbor.pdb
+D:\files\fleshka\ProgramC++\LB1 tprtbor\LB1 tprtbor\obj\Debug\LB1 tprtbor.csproj.AssemblyReference.cache
+D:\files\fleshka\ProgramC++\LB1 tprtbor\LB1 tprtbor\obj\Debug\LB1_tprtbor.Form1.resources
+D:\files\fleshka\ProgramC++\LB1 tprtbor\LB1 tprtbor\obj\Debug\LB1_tprtbor.Properties.Resources.resources
+D:\files\fleshka\ProgramC++\LB1 tprtbor\LB1 tprtbor\obj\Debug\LB1 tprtbor.csproj.GenerateResource.cache
+D:\files\fleshka\ProgramC++\LB1 tprtbor\LB1 tprtbor\obj\Debug\LB1 tprtbor.csproj.CoreCompileInputs.cache
+D:\files\fleshka\ProgramC++\LB1 tprtbor\LB1 tprtbor\obj\Debug\LB1 tprtbor.exe
+D:\files\fleshka\ProgramC++\LB1 tprtbor\LB1 tprtbor\obj\Debug\LB1 tprtbor.pdb
+D:\3й курс\2 часть\ТП\LB1 tprtbor\LB1 tprtbor\bin\Debug\LB1 tprtbor.exe.config
+D:\3й курс\2 часть\ТП\LB1 tprtbor\LB1 tprtbor\bin\Debug\LB1 tprtbor.exe
+D:\3й курс\2 часть\ТП\LB1 tprtbor\LB1 tprtbor\bin\Debug\LB1 tprtbor.pdb
+D:\3й курс\2 часть\ТП\LB1 tprtbor\LB1 tprtbor\obj\Debug\LB1 tprtbor.csproj.AssemblyReference.cache
+D:\3й курс\2 часть\ТП\LB1 tprtbor\LB1 tprtbor\obj\Debug\LB1_tprtbor.Form1.resources
+D:\3й курс\2 часть\ТП\LB1 tprtbor\LB1 tprtbor\obj\Debug\LB1_tprtbor.Properties.Resources.resources
+D:\3й курс\2 часть\ТП\LB1 tprtbor\LB1 tprtbor\obj\Debug\LB1 tprtbor.csproj.GenerateResource.cache
+D:\3й курс\2 часть\ТП\LB1 tprtbor\LB1 tprtbor\obj\Debug\LB1 tprtbor.csproj.CoreCompileInputs.cache
+D:\3й курс\2 часть\ТП\LB1 tprtbor\LB1 tprtbor\obj\Debug\LB1 tprtbor.exe
+D:\3й курс\2 часть\ТП\LB1 tprtbor\LB1 tprtbor\obj\Debug\LB1 tprtbor.pdb

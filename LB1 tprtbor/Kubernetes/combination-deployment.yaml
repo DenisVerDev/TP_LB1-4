@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: combination-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: combination
+  template:
+    metadata:
+      labels:
+        app: combination
+    spec:
+      containers:
+      - name: combination
+        image: yourdockerhubusername/combination-service:latest
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: combination-service
+spec:
+  type: ClusterIP
+  selector:
+    app: combination
+  ports:
+  - protocol: TCP
+    port: 80
+    targetPort: 80

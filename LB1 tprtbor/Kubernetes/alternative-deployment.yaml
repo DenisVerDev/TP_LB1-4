@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: alternative-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: alternative
+  template:
+    metadata:
+      labels:
+        app: alternative
+    spec:
+      containers:
+      - name: alternative
+        image: yourdockerhubusername/alternative-service:latest
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: alternative-service
+spec:
+  type: ClusterIP
+  selector:
+    app: alternative
+  ports:
+  - protocol: TCP
+    port: 80
+    targetPort: 80
